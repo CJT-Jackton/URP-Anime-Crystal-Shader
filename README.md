@@ -12,7 +12,7 @@ Only works on low-poly mesh with proper uv mapping.
 - Universal Rendering Pipeline 7.4.1 or higher
 
 ## Resources
-- Texture - [The Cookie](https://seiga.nicovideo.jp/seiga/im4695569) by Vincent van Gogh
+- Texture - [クッキー](https://seiga.nicovideo.jp/seiga/im4695569) by 七瀬尚さん
 - Skybox - [Adams Place Bridge](https://hdrihaven.com/hdri/?h=adams_place_bridge) by Andreas Mischok
 - Skybox - [Tokyo Tower](http://www.hdrlabs.com/sibl/archive.html) by Christian Bloch
 
